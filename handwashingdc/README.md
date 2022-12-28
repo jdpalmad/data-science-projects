@@ -4,6 +4,7 @@ This project is taken from Datacamp and the dataset can be found at Datacamp and
 
 In this project, we will reanalyze the medical data Semmelweis collected. We will use the data to calculate the annual number of deaths from puerperal fever at the two clinics and then use statistical analysis to draw a conclusion about the effect of handwashing.
 
+*This projects uses Python, Pandas, Matplotlib and Bootstrap.*
 # **Project Description given by Datacamp**
 In 1847, the Hungarian physician Ignaz Semmelweis made a breakthough discovery: he discovers handwashing. Contaminated hands was a major cause of childbed fever and by enforcing handwashing at his hospital he saved hundreds of lives.
 
